@@ -4,9 +4,9 @@
 Resources
 ---------
 
-- [Flask-Babel](https://alx-intranet.hbtn.io/rltoken/fBpGjDt2BFuBFiz-jwublQ "Flask-Babel")
-- [Flask i18n tutorial](https://alx-intranet.hbtn.io/rltoken/RtGz7pI7TKnYqrMMG9rWMg "Flask i18n tutorial")
-- [pytz](https://alx-intranet.hbtn.io/rltoken/mzgaTYJUvmamm7kH7RtEcQ "pytz")
+- [Flask-Babel](https://pypi.org/project/flask-babel/))
+- [Flask i18n tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-xiii-i18n-and-l10n)
+- [pytz](https://pytz.sourceforge.net/))
 
 Objectives
 -------------------
